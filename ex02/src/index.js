@@ -37,6 +37,7 @@ for (var i = 0; i < 15; i++) {
 fifteenArray.push("undefined!");
 
 console.log(fifteenArray);
+console.log(fifteenArray.join(", "));
 
 // Only change code above this line
 
