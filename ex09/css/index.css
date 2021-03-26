@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    height: auto;
+}
+
+#showcase {
+    background-image: url("/ex09/img/gigi-logo.png");
+    width: fit-content;
+}
+
+/* Style the header */
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+
+  #branding {
+      background-color: aliceblue;
+  }
+
+  .highlight {
+      text-align: center;
+  }
+
+  .current {
+      color: yellow;
+  }
+
+  #newsletter {
+      width: auto;
+  }
+
+  #boxes {
+      height: inherit;
+  }
